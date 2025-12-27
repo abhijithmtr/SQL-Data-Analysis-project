@@ -110,13 +110,7 @@ group by category
 order by AVARAGE_DISCOUNT desc
 limit 5;
 
---Q6 Find the price per gram for products above 100g and sort by value
 
-
-
---Q7. group the products into categoires like low, mid, bulk
-
-Select 
 
 
 
